@@ -8,17 +8,18 @@ Feature extraction is uitgevoerd met de 'streaming_extractor_music' executable v
 
 #### Resultaten van de feature extraction
 
-Resultaten van de feature extraction zijn weergegeven in plots in de map 'static/plots'
+Resultaten van de feature extraction zijn weergegeven in plots in de map 'static/plots' en in .csv format in 'static/extracted_features'
  
 ### Het model
 Trainingsresultaten van het model zijn weergegeven in 'static/training_results'. Om het model te trainen of aan te passen, zie tutorial
  
- #### Dataset
+#### Dataset
  
- De dataset voor training is te vinden in 'static/dataset'
-
-### 
-
+De dataset voor training is te vinden in 'static/dataset'
+ 
+#### Pretrained weights
+ 
+Pretrained weights voor het model zijn aanwezig in de map 'checkpoint data'
 
 ### Copyright
 De twee .mp3 files die in de repository aanwezig zijn, zijn enkel te gebruiken voor educatieve doeleinden. Ik heb geen rechten over deze muziek, alle rechten behoren aan de desbetreffende eigenaar toe.  
