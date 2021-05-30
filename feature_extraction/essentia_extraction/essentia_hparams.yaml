@@ -1,0 +1,14 @@
+outputFormat: yaml
+startTime: 0
+endTime: 90
+
+lowlevel:
+    stats: ["mean", "var"]
+
+
+rhythm:
+    stats: ["mean", "var"]
+
+
+tonal:
+    stats: ["mean", "var"]

@@ -1,0 +1,34 @@
+Highest accuracy history: 
+epoch: 2, highest accuracy: 0.5833333
+epoch: 3, highest accuracy: 0.6759259
+epoch: 4, highest accuracy: 0.712963
+epoch: 5, highest accuracy: 0.8611111
+epoch: 7, highest accuracy: 0.8796296
+epoch: 9, highest accuracy: 0.9259259
+epoch: 18, highest accuracy: 0.9444444
+epoch: 59, highest accuracy: 0.962963
+epoch: 203, highest accuracy: 0.9722222
+
+Highest loss history: 
+epoch: 1, lowest loss: 19.516
+epoch: 2, lowest loss: 15.128
+epoch: 3, lowest loss: 13.801
+epoch: 4, lowest loss: 7.893
+epoch: 5, lowest loss: 3.2
+epoch: 18, lowest loss: 2.975
+epoch: 36, lowest loss: 2.8
+epoch: 41, lowest loss: 2.561
+epoch: 55, lowest loss: 2.138
+epoch: 95, lowest loss: 0.742
+epoch: 183, lowest loss: 0.564
+epoch: 203, lowest loss: 0.326
+epoch: 314, lowest loss: 0.282
+epoch: 353, lowest loss: 0.264
+epoch: 360, lowest loss: 0.246
+epoch: 363, lowest loss: 0.234
+epoch: 406, lowest loss: 0.203
+epoch: 407, lowest loss: 0.194
+epoch: 408, lowest loss: 0.171
+epoch: 420, lowest loss: 0.13
+epoch: 676, lowest loss: 0.127
+epoch: 729, lowest loss: 0.101
