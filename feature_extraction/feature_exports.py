@@ -233,6 +233,6 @@ def plot_data(plot_lst, is_test=False):
         # export plot
         if not is_test:
             plt.tight_layout()
-            plt.savefig('{}/extraction_outputs/prediction_plots/{}'.format(_dir, col))
+            plt.savefig('{}/extraction_outputs/plots/{}'.format(_dir, col))
 
         plt.close()
